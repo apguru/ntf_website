@@ -1,0 +1,151 @@
+html {
+    width: auto;
+    height: 100%;
+}
+iframe{
+    width: 100%;
+    height: auto;
+}
+.YThr{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#indexRow {
+    width: inherit;
+}
+
+body {
+    padding-top: 51px;
+    color: white;
+    background-color: #161618;
+    font-family: "Arial";
+}
+
+.backPos {
+    background-image: url("../img/background.jpg");
+    background-repeat: no-repeat;
+    background-size: inherit;
+    height: 950px;
+}
+
+.jumbotron {
+    width: 100%;
+    background-image: url("../img/Jumbotron.jpg");
+    background-size: cover;
+}
+
+.panelBody {
+    margin-top: -20px;
+    border-radius: 0px 0px 4px 4px;
+    /*color: #282828;*/
+    background-image: linear-gradient(to bottom, #282828 0%, #282828 100%);
+    font-weight: 600;
+}
+
+.panelHead {
+    color: white;
+    padding: 4px;
+    border-radius: 4px 4px 0px 0px;
+    background-image: linear-gradient(to bottom, #2aa3e8 0%, #1880bf 100%);
+}
+
+.well {
+    border: none
+}
+
+#contentheader {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.newsHr {
+    margin-top: 17px;
+    margin-bottom: 17px;
+}
+
+#bewerbungImg {
+    width: 100%;
+    display: block;
+    margin: auto;
+}
+
+ul {
+    margin: 0px;
+    list-style-type: none;
+}
+
+.aFooter {
+    text-decoration: none;
+    color: #000;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #3b3b39;
+}
+
+.myfooter {
+    padding: 2px;
+    background-image: linear-gradient(to bottom, #282828 0%, #282828 100%);
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.PanelHeading {
+    margin-top: 10px;
+    padding-left: 25px
+}
+
+.YTVideo {
+    text-align: center;
+}
+
+#BewPanel {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.news {
+    text-transform: none;
+    padding-left: 20px;
+}
+
+.Link {
+    color: white;
+}
+
+.terminLink {
+    color: #008fff;
+}
+
+.center {
+    text-align: center;
+}
+
+.btn_mehr {
+    float: right;
+}
+
+.justifyText {
+    text-align: justify;
+}
+
+.feedElement{
+  border: 1px solid #008fff;
+  border-radius: 4px;
+  margin: 10px;
+  padding-left: 10px;
+}
+.by{
+  color: #999 ;
+}
+.colRight{
+  position: absolute;
+}
+
+#picBody{
+  padding: 20px;
+  padding-top: 0px;
+}

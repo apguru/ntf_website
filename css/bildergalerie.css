@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	width: 100%;
+	height: auto;
+}
+/*BILDERGALERIE - CSS*/
+#bildergalerie {
+	display: flex;
+	flex-wrap: wrap;
+	max-width: 100%;
+	height: auto;
+	padding: 2rem 0;
+	margin:0 auto;
+ 	list-style-type:none;
+	justify-content: center;
+	background: rgba(33,33,33,1.00);
+}
+#bildergalerie li {
+	display: block;
+	width: 25rem;
+	height: auto;
+	margin: 0.5rem;
+}
+#bildergalerie li a{
+	display: block;
+	width: 100%;
+	height: auto;
+}
+#bildergalerie li a img{
+	display: block;
+	width: 100%;
+	height: auto;
+}
+
